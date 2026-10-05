@@ -12,6 +12,7 @@
   <a href="https://www.linkedin.com/in/mahmoud-karawya-90a915245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mahmoudrefat9090@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Riyadh%2C%20Saudi%20Arabia-0f2a55?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="https://www.upwork.com/freelancers/~01f568ba10b322a4b1"><img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=MahmoudRefat0&label=Profile%20views&color=1f4e8c&style=for-the-badge" />
 </p>
 
@@ -50,12 +51,34 @@ public class MahmoudKarawya {
 | 🛒 [E-Commerce Order & Inventory Manager](https://github.com/MahmoudRefat0/E-Commerce-Order-Inventory-Manager-) | Products, orders, categories and stock management | Java Collections |
 | 🏥 [Hospital Management System](https://github.com/MahmoudRefat0/Hospital-Management-System-OOP-) | Doctors, nurses, patients and departments | Java, OOP |
 
+### 🌱 Currently learning
+
+```text
+Route Academy - Java Backend Diploma (Jun -> Dec 2026)
+[done]    Java Basics -> OOP -> Collections -> Design Patterns -> Java 8+ -> Concurrency
+[now]     PostgreSQL: DDL / DML, joins, constraints, indexes, transactions, ERD
+[next]    Servlets & JSP -> Spring Core -> Spring Data JPA -> Spring MVC
+[next]    Spring Boot REST APIs -> Spring Security (JWT) -> JUnit & Postman testing
+```
+
+### 📜 Certifications
+
+| Certification | Issuer |
+|---|---|
+| IBM Data Scientist | IBM - Digital Egypt Pioneers Initiative (DEPI) |
+| Full Stack Web Development (Front End + Back End) with Python | SCAL Academy |
+| HCIA-AI | Huawei |
+| Artificial Intelligence Diploma (150 hours) | ARRAY Training Center |
+| AI Training (50 hours) | Zewail City of Science and Technology |
+| AI Career Essentials | ALX |
+
 ### 📊 GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MahmoudRefat0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=MahmoudRefat0&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ### 🐍 Contribution snake
 
